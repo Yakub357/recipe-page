@@ -5,6 +5,36 @@
   margin: 0;
 }
 
+:root {
+  /* ? Color variables */
+  --color-rose-800: #7a284e;
+  --color-rose-50: #fff7fb;
+  --color-stone-900: #312e2c;
+  --color-stone-600: #5f564d;
+  --color-stone-150: #e3ddd7;
+  --color-stone-100: #f3e5d7;
+  --color-brown-800: #854632;
+  --color-white: #ffffff;
+
+  /* ? Spacing Variables */
+  --spacing-1600: 8em;
+  --spacing-600: 3em;
+  --spacing-500: 2.5em;
+  --spacing-400: 2em;
+  --spacing-300: 1.5em;
+  --spacing-200: 1em;
+  --spacing-150: 0.75em;
+  --spacing-100: 0.5em;
+
+  /* ? Font size Variables */
+  --text-desk-preset-1: 2.5em;
+  --text-desk-preset-2: 1.75em;
+  --text-desk-preset-3: 1.25em;
+  --text-desk-preset-4: 1em;
+
+  --text-mob-preset-1: 2.25em;
+}
+
 html {
   box-sizing: border-box;
 }
